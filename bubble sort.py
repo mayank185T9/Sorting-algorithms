@@ -16,6 +16,7 @@ def luna(n):
         if x == 0:
             print (n)
             break
+        return list
 
 a = luna(list)
 print (a)
